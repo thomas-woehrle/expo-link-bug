@@ -3,6 +3,8 @@
 Project created according to https://docs.expo.dev/tutorial/create-your-first-app/. 
 Minimum reproducible example added into index.tsx
 
+Link to issue: https://github.com/expo/expo/issues/31990
+
 
 # Welcome to your Expo app 👋
 
