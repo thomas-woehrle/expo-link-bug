@@ -1,3 +1,9 @@
+# Used to report a possible Bug with expo-router's Link
+
+Project created according to https://docs.expo.dev/tutorial/create-your-first-app/. 
+Minimum reproducible example added into index.tsx
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
